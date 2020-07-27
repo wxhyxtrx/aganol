@@ -17,9 +17,9 @@ function beranda(){
                 <h2></h2>
                 <p></p>
                 <div className="bglist" >
-                <div className="photocard">
-                    <img src="svg/task.svg"/>
-                </div>
+                    <div className="photocard">
+                        <img src="svg/task.svg"/>
+                    </div>
                 <div className="titlecard">
                     <h4>Membuat laporan tugas harian</h4>
                 </div>

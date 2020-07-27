@@ -21,10 +21,12 @@ export default function menu(){
                         <Link href="/index">
                             <li>Home</li>
                         </Link>
-                        <li>PKL</li>
+                        <li>Task</li>
                         <li>Projek</li>
                         <li>Helpdesk</li>
-                        <li>About me</li>
+                        <Link href="/wahyutricahyo">
+                            <li>About me</li>
+                        </Link>
                     </ul>
                 </nav>
             </header>

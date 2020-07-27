@@ -101,9 +101,10 @@ section {
     width: 98.5%;
     height: 400px;
     padding: 20px 0px;
-    background: #f1f1f1;
+    background: #fafafa;
     margin-top: 60px;
     padding-left: 20px;
+    border-bottom: 1px solid #eaeaea;
 }
 section h2{
     margin: 0px;
